@@ -79,12 +79,12 @@ body {
 
 #box-1 a, #box-3 a, #box-5 a{
     position: relative;
-    top: 50px;
+    top: 30px;
 }
 
 #box-2 a, #box-4 a, #box-6 a{
     position: relative;
-    top: 35px;
+    top: 15px;
 }
 
 #subscribe {
